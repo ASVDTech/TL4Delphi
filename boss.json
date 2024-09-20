@@ -1,0 +1,11 @@
+{
+	"name": "TL4Delphi",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {
+		"https://github.com/viniciussanchez/restrequest4delphi": "^v4.0.19"
+	}
+}
