@@ -8,7 +8,6 @@
 
 |                                                                            |     |
 | -------------------------------------------------------------------------- | --- |
-| Geração automática de QRCode                                               | ✔  |
 | Envio de mensagens **texto**                                               | ✔  |
 | Receber mensagens                                                          | ✔  |
 | Receber mensagens e obter retorno com o id                                 | ✔  |
